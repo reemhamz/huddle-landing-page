@@ -1,0 +1,116 @@
+.myButton {
+background-color:#fa7699;
+-moz-border-radius:28px;
+-webkit-border-radius:28px;
+border-radius:28px;
+border:1px solid #f2f2f2;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:Trebuchet MS;
+font-size:20px;
+padding:11px 29px;
+text-decoration:none;
+text-shadow:0 1px 0 #d6047b;
+position: absolute;
+right: 100px
+}
+.myButton:hover {
+background-color:#ffd3de;
+}
+.myButton:active {
+position:relative;
+top:1px;
+
+}
+
+.myButton2 {
+	background-color:#fffaff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #f2edf2;
+	display:inline-block;
+	cursor:pointer;
+	color:#e64590;
+	font-family:Trebuchet MS;
+	font-size:20px;
+	padding:11px 29px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #ffffff;
+}
+.myButton:hover {
+	background-color:#df4d19;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.heading{
+margin-top: 50px;
+padding-bottom: 150px;
+
+}
+.logo{
+  position: absolute;
+  left: 100px;
+}
+
+.top-img{
+width: 65%
+}
+
+
+.top-container {
+  text-align: center;
+ margin: auto 25% auto 25%;
+ padding-bottom: 250px;
+}
+
+.mid-container {
+  text-align: left;
+  margin-right: 150px;
+  margin-bottom: 200px;
+}
+
+.mid-img {
+  float: left;
+  width: 40%;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.trial-box {
+  text-align: center;
+  margin-bottom: 200px;
+  border: 0.5px solid;
+  width: 25%;
+  padding: 50px;
+
+
+}
+
+body{
+  font-family: "Open Sans";
+  font-weight: lighter;
+}
+
+p {
+  color: #b7b7b7;
+}
+
+h1{
+  font-family: "Poppins";
+  font-weight: 400;
+}
+
+h2{
+  font-family: "Poppins";
+  font-weight: 600;
+}
+
+h3 {
+  font-family: "Poppins";
+  font-weight: 700
+}
